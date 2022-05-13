@@ -1,0 +1,8 @@
+{
+    "name": "ganesh/my-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
